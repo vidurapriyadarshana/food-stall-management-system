@@ -1,1 +1,0 @@
-# food-stall-management-system
